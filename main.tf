@@ -9,4 +9,5 @@ resource "aws_instance" "Practice-Instance" {
   tags = {
     "Name" = "Practice2"
   }
+  #comments
 }
